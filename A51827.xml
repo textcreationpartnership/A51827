@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the gelding of a lascivious Franciscan-fryer on board the exchange-frigat by the boatswains boy : as it came in a letter to a merchant in London from Leghorn, dated Octob. 18/28.</title>
+            <author>J. M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51827</idno>
+            <idno type="STC">Wing M51</idno>
+            <idno type="STC">ESTC R40021</idno>
+            <idno type="EEBO-CITATION">18660810</idno>
+            <idno type="OCLC">ocm 18660810</idno>
+            <idno type="VID">108114</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51827)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108114)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1657:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the gelding of a lascivious Franciscan-fryer on board the exchange-frigat by the boatswains boy : as it came in a letter to a merchant in London from Leghorn, dated Octob. 18/28.</title>
+                  <author>J. M.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed, and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: J.M.</note>
+                  <note>Imprint from colophon; place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Child sexual abuse --  Early works to 1800.</term>
+               <term>Anti-Catholicism.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:108114:1"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="1" facs="tcp:108114:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 24 -->
+            <head>A TRUE RELATION OF THE GELDING Of a Laſcivious Franciſcan-Fryer, On BOARD the EXCHANGE-FRIGAT By the BOATSWAINS BOY.</head>
+            <opener>
+               <dateline>As it came in a Letter to a Merchant in <hi>London</hi> from <hi>Legorn.</hi> Dated <date>
+                     <hi>Octob.</hi> 18/28.</date>
+               </dateline>
+            </opener>
+            <p>WE are, thanks be to God, Arrived ſafe at <hi>Legorn.</hi> Amongſt ſeveral Eminent paſ<g ref="char:EOLhyphen"/>ſages that we met with in our Voyage from <hi>Scanderoon,</hi> there is one I cannot forbear to ac<g ref="char:EOLhyphen"/>quaint you of, and the rather becauſe you know what Diſcourſe paſt between the Captain—and my ſelf in our different opinions about the Papiſts way of Dying, and the ſtrange Spirit that Acts that party of Men, that would fain make us to claim their Saintſhips.</p>
+            <pb n="2" facs="tcp:108114:2"/>
+            <!-- PDF PAGE 25 -->
+            <p>In <hi>June</hi> laſt we were at <hi>Cyprus,</hi> where we received a <hi>Popiſh</hi> Prieſt on Board, of the <hi>Order of St. Francis,</hi> who came in a little Bark over from the <hi>Holy Land,</hi> where he had been to Worſhip the Holy Sepulchre; he gave a large Account of his Pilgrimage, the Hard<g ref="char:EOLhyphen"/>neſs and Tediouſneſs of his Travels, the ſeveral Dan<g ref="char:EOLhyphen"/>gers and Difficulties of his Journey: But withall, the great ſatisfaction he had taken in ſo bleſt an Underta<g ref="char:EOLhyphen"/>king, behaving it at his firſt coming, as if an auſtere mortified life and he had been well acquainted; where<g ref="char:EOLhyphen"/>by he endeavoured to perſwade the Commander and Ships-Company, that as was his habit, ſuch was his heart, greatly Religious and Devout. The Boatſwain hath a Lad of great Innocency, and comely of Body, to whom this <hi>Franciſcan</hi> preſently began to joyn, and to Conſort himſelf with; and whenever he could get him alone, would not only be giving him what good things he could obtain for him, but alſo be preſſing Money upon him: All which the Lad could digeſt very well. But then the Prieſts undecent behaviour towards him, every foot kiſſing and ſlabbering his face, and thruſting his hand into his Breeches, not only ren<g ref="char:EOLhyphen"/>dred the Company of this <hi>Sodomitiſh Franciſcan</hi> Prieſt, very troubleſome and burdenſome to him, but in<g ref="char:EOLhyphen"/>creaſed the Lads wonder, what the Fryer would be at, as no way apprehending his meaning.</p>
+            <p>At laſt he grew ſo unſufferably impudent to the Boy, as made him decline being alone for his ſake; and complaining to his Maſter the Boatſwain, and two other of the Ships-Company, then in the Cabbin, they could not forbear ſmiling to think what a Sanctimonious <hi>Sodomitiſh</hi> Hypocrite they had got Aboard; and the better to detect his Hypocriſie, and lay open his Ro<g ref="char:EOLhyphen"/>guery, told the boy in plain terms what they gueſt the
+<pb n="3" facs="tcp:108114:2"/>
+               <!-- PDF PAGE 25 -->Prieſt would be at, and therefore adviſed him to defend himſelf from him as well as he could; ſcarce had he got from theſe perſons, but the Prieſt followed him in all places where he could meet him alone, thruſting his privy Members into the boys hands, with other ſuch<g ref="char:EOLhyphen"/>like abominable treatments, not fit to be named. The poor Youth being by this means almoſt wearied of his life by this prophane Prieſt, conſulted ways how to get rid from the continual Converſation of ſuch a beaſtly wretch, at laſt was adviſed to fall upon this courſe.</p>
+            <p>He gets a good Courage, and at laſt pretends to yield to his Luſt, appointing him a dark place in the Ship, at ſuch an hour to meet him, and to let him have his will of him; at which the Prieſt was ſo over-joyed, that he gives the Lad a ſum of money, and many kiſſes, and ſo departs. At the time appointed the boy comes there, having firſt provided himſelf with a good Knife, which he had prepared on purpoſe, made as ſharp as a Razor: The Prieſt, he is for Courting the boy to pull down his breeches, the boy bids the Prieſt pull down his firſt; at which the Prieſt made not many words; but the boy not being ſo forward as he, he begins with his old trade of thruſting his Privy-members into the boys hand, which he never ſuffered him to do ſo willingly before; for ſo ſoon as he had got good hold of it, he cuts it off to the very root, leaving only the ſtump to diſtinguiſh Sexes; at which the Fryer roared out, and made ſuch an horrible Cry, that affrighted the Ships Company that were near that place, who all come running to them with what haſte they could make; and having a light brought them, there they found the poor Buggering-Fryer with his breeches about his heels, and his ſhirt about his waſte, and his hand upon his wounded parts,
+<pb n="4" facs="tcp:108114:3"/>
+               <!-- PDF PAGE 26 -->not daring to let go, leſt all the blood ſhould run out of his beaſtly body, and he dye upon the ſpot.</p>
+            <p>The Chyrurgeon of the Ship and his Mate were ſoon called, and all poſſible means uſed to ſtench the blood; which, in fine, they did, and by Application of proper Medicines, ſet him upon his legs again, that he was able to walk into the <hi>Larazetto,</hi> among others to undergo his quarintine, as is uſual; but ſo ſoon as the wound was healed, and himſelf well, he flees out of the <hi>Larazetto</hi> before his time, and marches off, having never been heard of to this day.</p>
+            <closer>
+               <signed>Yours, <hi>J. M.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed, and are to be Sold by <hi>Richard Janeway</hi> in <hi>Queens-head Alley</hi> in <hi>Pater-Noſter-Row.</hi> 1680.</p>
+            <pb facs="tcp:108114:3"/>
+            <!-- PDF PAGE 26 -->
+         </div>
+      </back>
+   </text>
+</TEI>
